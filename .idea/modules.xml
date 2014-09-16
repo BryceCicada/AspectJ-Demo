@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AspectDemo.iml" filepath="$PROJECT_DIR$/AspectDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aspect/aspect.iml" filepath="$PROJECT_DIR$/aspect/aspect.iml" />
+    </modules>
+  </component>
+</project>
+

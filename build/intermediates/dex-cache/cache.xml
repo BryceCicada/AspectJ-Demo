@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/chrisnix/Development/AspectDemo/aspect/build/intermediates/pre-dexed/debug/classes-16a7ba3b213a0674983dc7dc39351a0dac54a712.jar"
+        jar="/home/chrisnix/Development/AspectDemo/aspect/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/home/chrisnix/Development/AspectDemo/aspect/build/intermediates/pre-dexed/debug/support-v4-19.1.0-1bd09adae01d10f8f097a7c54535018843cfa550.jar"
+        jar="/opt/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/home/chrisnix/Development/AspectDemo/aspect/build/intermediates/pre-dexed/debug/aspectjrt-1.8.2-1b9d94b369060e78e54474d8117f0e8b333146a7.jar"
+        jar="/home/chrisnix/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.2/7dede91c0c36b1265fc99c55283b90ed2be144c8/aspectjrt-1.8.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7dede91c0c36b1265fc99c55283b90ed2be144c8"/>
+
+</pre-dex-items>
